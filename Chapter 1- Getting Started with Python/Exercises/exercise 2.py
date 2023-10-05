@@ -1,4 +1,4 @@
-import sys
+import sys  
 print("Python version")
 print (sys.version)
 print("Version info.")
