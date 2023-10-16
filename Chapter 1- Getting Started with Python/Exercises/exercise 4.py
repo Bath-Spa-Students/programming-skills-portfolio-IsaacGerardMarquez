@@ -1,6 +1,8 @@
-string1 = "Python"
-string2 = "is"
-string3 = "captivating."
+#Exercise 4: Strings Concatination (Write three strings in different variables and print the output as one string.)
 
-new_string= string1 + " " + string2 + " " + string3
-print(new_string)
+String1 = "Python"
+String2 = "is"
+String3 = "captivating."
+
+New_string= String1 + " " + String2 + " " + String3
+print(New_string)
