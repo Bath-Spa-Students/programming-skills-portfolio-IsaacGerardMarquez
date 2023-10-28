@@ -3,7 +3,7 @@
 # Creating a list called Names that would store the names of a few of my friends.
 Names = ['Yyan', 'John', 'Radjn']
 
-## Printing each person with the same message but each personalized with the person’s name.
+# Printing each person with the same message but each personalized with the person’s name.
 Message = f"Long time no see, {Names[0].title()}!"
 print (Message)
 
