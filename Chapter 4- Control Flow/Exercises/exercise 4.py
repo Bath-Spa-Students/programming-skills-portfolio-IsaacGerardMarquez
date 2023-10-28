@@ -6,6 +6,7 @@
 # •If the person is at least 20 years old but less than 65, print a message that the person is an adult.
 # •If the person is age 65 or older, print a message that the person is an elder.
 
+# Setting a value for the variable Age
 Age = 18
 
 if Age < 2:
