@@ -1,4 +1,4 @@
-#Exercise 4: Strings Concatination (Write three strings in different variables and print the output as one string.)
+#Exercise 4: Strings Concatenation (Write three strings in different variables and print the output as one string.)
 
 # Writing three strings in different variables. Each variable is assigned with a specific string value.
 String1 = "Python"
