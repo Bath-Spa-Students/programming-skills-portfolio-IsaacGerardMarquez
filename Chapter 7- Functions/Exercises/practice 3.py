@@ -1,6 +1,6 @@
 # Practice 3: Write a Python program that uses a function to check if a given number is prime or not.
 
-# Defining the is_prime function to take Number as a parameter.
+# Defining the is_"prime function" to take Number as a parameter.
 def is_prime(Number):
 
 # It determines if Number is less than or equal to 1.
