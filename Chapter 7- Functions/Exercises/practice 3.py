@@ -19,10 +19,10 @@ def is_prime(Number):
             return False
 
 # The function reaches the return True statement if the loop completes without finding any divisors.
-# This indicates that the number is prime number.
+# This indicates that the number is a prime number.
     return True
 
-# Create an input() function that prompts the iser to enter a number. The inputted number is then convereted into an integer using int().
+# Create an input() function that prompts the user to enter a number. The inputted number is then convereted into an integer using int().
 Number = int(input("Please enter a number: "))
 
 # Calls the is_prime funtion with the inputted number from "Number" as an argument and determines the returned value.
