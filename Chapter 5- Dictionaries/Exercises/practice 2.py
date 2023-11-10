@@ -4,6 +4,7 @@
 Isaac_Introduction = {
     'Name': 'Isaac Gerard S. Marquez',
     'Nationality': 'Filipino',
+    'Languages Spoken': ['English', 'Filipino', 'Hiligaynon'],
     'Age': 18,
     'Date of Birth' : 'January 25, 2005',
     'Sex': 'Male',
