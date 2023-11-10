@@ -1,4 +1,4 @@
-# Assume names references a list. Write a for loop that displays each element of the list.
+# Practice 3: Assume names references a list. Write a for loop that displays each element of the list.
 
 # Creating a list named Famous_Mathematicians that stores the following strings: 'Einstein', Newton' , 'Copernicus', and 'Kepler'
 Famous_Mathematicians = ['Einstein', 'Newton' , 'Copernicus', 'Kepler']
