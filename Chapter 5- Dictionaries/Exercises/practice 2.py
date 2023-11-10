@@ -16,7 +16,7 @@ Isaac_Introduction = {
     'Current Level': 'Level 4 (Year 1)',
 }
 
-# Use for loop to iterate the keys of the dictionary named "Isaac_Introduction".
+# Use for loop to iterate through the keys of the dictionary named "Isaac_Introduction".
 for key in Isaac_Introduction:
 
 # Use print() function to print or display each "key" on a separate line.
