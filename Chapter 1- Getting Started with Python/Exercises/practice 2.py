@@ -1,4 +1,4 @@
-#Create a program to output "hi" 50 times, without any separator
+# Practice 2: Create a program to output "hi" 50 times, without any separator
 
 # In this program, "hi" is a string that represents the word "hi".
 # "*" is used as the operator for string repetition.
