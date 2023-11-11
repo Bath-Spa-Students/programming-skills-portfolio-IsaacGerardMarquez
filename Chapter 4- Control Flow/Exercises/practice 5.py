@@ -1,4 +1,4 @@
-# Write a Python program that uses the elif statement to determine the season based on the month provided as input.
+# Practice 5: Write a Python program that uses the elif statement to determine the season based on the month provided as input.
 
 # Create a determine_season function which would take the month as an input and determines the corresponding season.
 def determine_season(month):
