@@ -1,4 +1,4 @@
-# Write a python program with nested decision structures that perform the following: If amount1 is greater than 10 and amount2 is less than 100, display the greater of amount1 and amount2
+# Practice 3: Write a python program with nested decision structures that perform the following: If amount1 is greater than 10 and amount2 is less than 100, display the greater of amount1 and amount2
 
 # Create an input() function that prompts the user to enter a value for the variables named amount1 and amount2.
 amount1=int(input("Please enter the value of amount1: "))
