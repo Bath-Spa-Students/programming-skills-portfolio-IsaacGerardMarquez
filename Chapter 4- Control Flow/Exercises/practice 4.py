@@ -1,4 +1,4 @@
-# Write a python program with an if-else statement that displays Speed is normal if the speed variable is within the range of 24 to 56. If the speed variable's value is outside this range, display 'Speed is abnormal
+# Practice 4: Write a python program with an if-else statement that displays Speed is normal if the speed variable is within the range of 24 to 56. If the speed variable's value is outside this range, display 'Speed is abnormal
 
 # Create an input() function that prompts the user to enter the speed.
 # The int function is used to convert the value into an integer.
