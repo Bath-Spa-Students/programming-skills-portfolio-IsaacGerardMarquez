@@ -1,5 +1,6 @@
 # Exercise 3: Glossary 2 (Now that you know how to loop through a dictionary, clean up the code from Exercise 6-3 (page 99) by replacing your series of print() calls with a loop that runs through the dictionary’s keys and values. When you’re sure that your loop works, add five more Python terms to your glossary. When you run your program again, these new words and meanings should automatically be included in the output.)
 
+# Creating a dictionary named "My_Glossary" that would store 10 Python programming words that I have learned about in the previous chapters.
 My_Glossary = {
     "Variable": " A name that represents a value stored in the computer's memory.",
     "Function": " A group of statements within a program that perform as specific task.",
@@ -13,6 +14,6 @@ My_Glossary = {
     "Indentation":  " The spaces at the beginning of a code line",
     }
 
-# (Loop that runs through the dictionary’s keys and values)
+# Using for Loop that would run through the dictionary’s keys and values
 for Word, Definition in My_Glossary.items():
     print ("\n" + Word.title() + ":" + Definition)
