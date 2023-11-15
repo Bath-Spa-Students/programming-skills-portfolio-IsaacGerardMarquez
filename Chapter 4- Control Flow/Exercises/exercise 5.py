@@ -2,10 +2,11 @@
 # •Make a list of your three favorite fruits and call it favorite_fruits.
 # •Write five if statements. Each should check whether a certain kind of fruit is in your list. If the fruit is in your list, the if block should print a statement,such as You really like bananas!
 
-# List of my three (3) favorite fruits
+# Creating a list named "favorite_fruits" that stores three (3) of my favorite fruits.
 favorite_fruits = ['mangoes', 'avocadoes', 'bananas']
 
-# Write five (5) if statements that each check whether the fruit is in my list. If the fruit is in my list (favorite_fruits), the if block would print a statement, such as You really like (the fruit that is in my list)!
+# Write five (5) if statements that each check whether the fruit is in my list. 
+# If the fruit is in my list (favorite_fruits), the if block would print a statement, such as "You really like (the fruit that is in my list)!"
 if 'mangoes' in favorite_fruits:
     print("You really like mangoes!")
 if 'apples' in favorite_fruits:
