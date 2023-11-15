@@ -2,7 +2,7 @@
 #Think of five programming words you’ve learned about in the previous chapters. Use these words as the keys in your glossary, and store their meanings as values.
 #Print each word and its meaning as neatly formatted output. You might print the word followed by a colon and then its meaning, or print the word on one line and then print its meaning indented on a second line. Use the newline character (\n) to insert a blank line between each word-meaning pair in your output.
 
-# Five (5) programming words that I have learned about in the previous chapters.
+# Creating a dictionary named "My_Glossary" that would store Five (5) Python programming words that I have learned about in the previous chapters.
 My_Glossary = {
     "Variable": "A name that represents a value stored in the computer's memory.",
     "Function": "A group of statements within a program that perform as specific task.",
